@@ -1,3 +1,3 @@
-def cal(a, b):
+def calc(a, b):
 	sum = a + b
-	pass
+	print(sum)
