@@ -5,4 +5,7 @@ def calc(a, b):
 def sub(a, b):
 	sub = a - b
 	print(sub)
-	
+
+def mult(a,b):
+	mult = a * b
+	print (mult)
